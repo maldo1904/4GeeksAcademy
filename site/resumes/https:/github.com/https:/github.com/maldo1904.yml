@@ -1,0 +1,68 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: José Daniel
+    last_name: Maldonado Flores
+    
+    # Define yourself in 4-5 words
+    motto: Ingeniero Industrial
+    
+    # Focus
+    focus: Logística y Cadenas de Suministro
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: |
+      Ingeniero industrial con experiencia en logística y gestión de inventarios. He trabajado en la optimización de procesos en Valeo y actualmente busco oportunidades en logística y áreas operativas. Cuento con habilidades en análisis de procesos, trabajo en equipo y un creciente interés en la ciencia de datos, explorando su uso para mejorar la eficiencia y tomar decisiones más informadas en diversas áreas.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: maldonadodaniel0419@gmail.com #optional
+    phone: 234 2342 342 #optional
+    website: asd.com #optional
+    linkedin: alandoe #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: https://github.com/maldo1904
+    
+    twitter: 'webjeda' #optional
+    stack-overflow: 12345/maldo1904
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: English
+        level: Profesional
+
+      - idiom: Spanish
+        level: Native
+
+    # Interests or hobbies
+    interests:
+      - item: Play Soccer
+
+      - item: Read
+
+      - item: Watch TV
+
+# Your previous education
+education:
+    - degree: Industrial Engineer
+      university: Instituto Tecnologico de Morelia
+      time: 2019 - 2023
+      details: |
+        Industrial Enginner with Logistsc Speciality
+
+      
+
+skills:
+    toolset:
+      - name: Office
+        level: 98%
